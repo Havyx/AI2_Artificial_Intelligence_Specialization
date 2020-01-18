@@ -1,0 +1,20 @@
+criar arquivo setup.py
+
+from setuptools import setup
+setup(name='package',
+version='0.1',
+description='Testing installation of Package',
+url='#',
+author='Silvio',
+author_email='silvio.stanzani@sprace.org.br',
+license='N/D',
+packages=['package'],
+install_requires=[
+          'pandas',
+      ],
+zip_safe=False)
+
+comdando:
+pip install .
+
+pip show package

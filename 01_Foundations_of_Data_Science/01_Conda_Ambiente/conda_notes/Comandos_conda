@@ -1,0 +1,30 @@
+*LISTAR TODOS OS AMBIENTES CONDA
+conda-env list
+
+CRIAR AMBIENTE
+conda create -n (nome_do_ambiente)
+
+LISTA TODOS OS PACOTES
+conda list
+
+ATIVA O AMBIENTE
+conda activate (nome_do_ambiente)
+
+PROCURAR PACOTES
+conda search (nome_do_pacote) ex: python
+
+Instalar pacote:
+conda install (nome_do_pacote) ex: python
+
+Apagar ambiente:
+conda-env remove -n (nome_do_ambiente) dica: Precisa estar na (base) ativa
+
+Instalar pelo PIP
+pip install (nome)
+
+
+
+
+
+
+

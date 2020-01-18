@@ -1,0 +1,36 @@
+def iniciar():
+	print('Iniciando')
+
+def count_freq(lista):
+	a =[a**2 for a in lista if a < 3]
+	print(a)
+
+def count_freq2():
+	f = open('char.txt','r')
+	a = f.readlines()
+	lista = []
+	countpy, countc, counttxt = 0,0,0
+	for item in a:
+		item = item.strip('\n')
+		lista.append(item)
+		if 'def' in item:
+			countpy+=1
+		if '%' in item:
+			countc+=1
+		if 'def 'not in item and '%' not in item:
+			counttxt+=1
+	print(lista)
+	if countpy  > countc:
+		print('E um programa py')
+	if countc > countpy:
+		print('E um programa c')
+	if counttxt > countc and  counttxt > countpy:
+		print('E um programa txt')
+
+def anagram(lista):
+
+	n_lista = lista[:]
+	dock = []
+	for item in n_lista:
+		for i in r
+	print(dock)
