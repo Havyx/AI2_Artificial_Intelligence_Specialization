@@ -1,0 +1,2 @@
+# AI2_Specialization_Artificial_Intelligence
+Especializacao em Inteligencia Artificial pela AI2
