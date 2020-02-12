@@ -74,6 +74,28 @@ https://www.ultraocr.com.br/
   
  http://scraping.pro/recaptcha-solve-selenium-python/  
  
-   https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/  --------------------------------------------------------------------------------------------
+   https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/  
+   --------------------------------------------------------------------------------------------
 ### Listagem de tecnologias a serem estudadas  
 1.
+
+
+u executei com sucesso esta solução abaixo para o meu problema:
+
+    Na BIOS, altere a Boot Sequence para permitir a inicialização via USB (contendo o Ubuntu)
+
+    No GRUB, selecione Experimente o Ubuntu sem instalar
+
+    Uma vez no Ubuntu, pressione Ctrl + Alt + T para abrir o Terminal
+
+    Digite sudo efibootmgr para listar todas as entradas no Menu de inicialização
+
+    Encontre Ubuntu no menu e anote o número de inicialização, por exemplo, Boot0001
+
+    Digite sudo efibootmgr -b 1 -B para excluir a entrada do Menu de inicialização
+
+-b : modificar o número de inicialização -B : excluir o número de inicialização
+
+Depois disso, tudo o que fiz foi mudar o Gerenciador de inicialização do Windows para o topo do menu de inicialização > voltar para o Windows 10 > Crie e formate partições do disco rígido e estenda a partição do meu Windows C:\ Drive para mesclar com o espaço livre de onde veio a minha unidade do Ubuntu excluída.
+
+Referência (com imagens): Como remover o Ubuntu de Inicialização dupla 
