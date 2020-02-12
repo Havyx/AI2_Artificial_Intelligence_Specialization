@@ -2,6 +2,7 @@
 Anotacoes gerais / Link de sites  
 
 https://towardsdatascience.com/best-clustering-algorithms-for-anomaly-detection-d5b7412537c8  
+https://medium.com/@elutins/dbscan-what-is-it-when-to-use-it-how-to-use-it-8bd506293818  
 
 https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/  
 
