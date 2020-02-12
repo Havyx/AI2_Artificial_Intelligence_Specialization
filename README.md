@@ -1,7 +1,9 @@
 # Notes
-Anotacoes gerais / Link de sites
+Anotacoes gerais / Link de sites  
 
-https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/
+https://towardsdatascience.com/best-clustering-algorithms-for-anomaly-detection-d5b7412537c8  
+
+https://www.howtoforge.com/tutorial/install-git-and-github-on-ubuntu/  
 
 https://www.gitignore.io/
 
