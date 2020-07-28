@@ -1,1 +1,1 @@
-# Especializacao em Inteligencia Artificial.
+# Analise-Exploratoria-de-Dados
