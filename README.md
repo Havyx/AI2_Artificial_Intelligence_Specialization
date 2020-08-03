@@ -1,4 +1,4 @@
-# Notas de Aula / Anotacoes gerais / Link de sites
+# Notas de Aula / Anotacoes gerais
   
 ### Detecção de Anomalia:
 
@@ -43,7 +43,8 @@ https://medium.com/@cagriaydogdu2334/3d-visualization-of-k-means-clustering-47d3
   
 https://www.bigendiandata.com/2017-04-18-Jupyter_Customer360/   
   
-http://scraping.pro/recaptcha-solve-selenium-python/  
- 
-https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/  
+http://scraping.pro/recaptcha-solve-selenium-python/
+
+https://www.howtoforge.com/tutorial/tesseract-ocr-installation-and-usage-on-ubuntu-16-04/
+  
 --------------------------------------------------------------------------------------------
