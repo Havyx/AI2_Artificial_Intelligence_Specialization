@@ -1,4 +1,4 @@
-# Especializacao em Inteligencia Artificial.  
+# GIT
 
 
 ### Git Configuration Files    
