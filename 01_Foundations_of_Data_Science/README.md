@@ -25,9 +25,9 @@ git merge nome_do_branch
 git push  
   
 git commit --amend -m "New commit message."
-git add .
-git commit --amend -m "New commit message."
+git push --force branch-name
   
 git fetch --all    
 git reset --hard origin/master
-```   
+```    
+https://linuxize.com/post/change-git-commit-message/
