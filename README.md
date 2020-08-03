@@ -24,7 +24,7 @@ https://blog.pythonanywhere.com/121/
 --------------------------------------------------------------------------------------------
   
 ### Some Data related Posts  
-pandas where loc mask good examples:
+Pandas where loc mask good examples:  
 https://kanoki.org/2019/07/17/pandas-how-to-replace-values-based-on-conditions/  
   
 https://amitkushwaha.co.in/data-visualization-part-1.html  
