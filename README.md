@@ -16,7 +16,7 @@ python -m ipykernel install --user --name mykernel
 jupyter kernelspec remove mykernel  
   
 -------------------------------------------------------------------------------------------- 
-### Deploy  
+### PythonAnyWhere Deploy  
 https://blog.pythonanywhere.com/169/  
   
 https://blog.pythonanywhere.com/121/
